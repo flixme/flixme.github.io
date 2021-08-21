@@ -1,0 +1,24 @@
+/* ADS */
+@media (max-width: 727px) {
+    .ads-desktop-header {
+        display: none;
+    }
+    .ads-desktop-left-side {
+        display: none;
+    }
+}
+
+@media (min-width: 728px) {
+    .ads-mobile-header {
+        display: none;
+    }
+}
+
+body {
+    background-color: #1d1d1d;
+}
+
+.main-content {
+    background-color: #ffff;
+    text-align: start;
+}
